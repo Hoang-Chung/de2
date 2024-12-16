@@ -1,0 +1,15 @@
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dethi02.csproj.AssemblyReference.cache
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dethi02.csproj.GenerateResource.cache
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dethi02.csproj.CoreCompileInputs.cache
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Dethi02.csproj.Up2Date
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\NguyenHoangChung_2280600317\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmSanpham.resources
